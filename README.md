@@ -11,7 +11,7 @@
 ## Overview
 GymRat is a comprehensive gym application designed to enhance the fitness experience for users. This project showcases my UI/UX design skills through a well-structured and visually appealing interface that facilitates easy navigation and engagement with fitness-related features. 
 
-wireframes for a mobile app idea of your choice using design tools like Figma, Sketch, or Adobe XD. Define the app's navigation flow, screen layouts, and basic UI elements to convey the app's functionality and user interaction.
+wireframes for a mobile app idea of your choice using design tools like Figma. Define the app's navigation flow, screen layouts, and basic UI elements to convey the app's functionality and user interaction.
 
 
 ## Features
