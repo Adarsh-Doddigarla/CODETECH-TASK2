@@ -41,7 +41,7 @@ This project is a Figma file and does not require installation. You can view the
 ## Access the Prototype
 You can view and interact with the GymRat prototype by clicking the link below:
 
-[View GymRat Prototype](https://www.figma.com/file/[prototype-link]-->>https://www.figma.com/design/TQvRDt5fhC4xqP874nPzUX/gymrat?node-id=0-1&t=OaADTlJTo9aig1R2-1
+[View GymRat Prototype]--> https://www.figma.com/design/TQvRDt5fhC4xqP874nPzUX/gymrat?node-id=0-1&t=urhY9V6dfpN7oZas-1
 
 
 ## Contribution
