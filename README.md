@@ -30,7 +30,7 @@ wireframes for a mobile app idea of your choice using design tools like Figma. D
 
 ## Technologies Used
 - Figma: For designing user interfaces and user experiences.
-- [Additional tools]: (e.g., GOOGLE IMAGES etc.)
+- [Additional tools]: (e.g., GOOGLE IMAGES, icons8.com etc.)
 
 ## Design Approach
 The design process involved thorough research on user needs and preferences in the fitness industry. I focused on creating an intuitive layout, ensuring accessibility, and using a cohesive color scheme that enhances user engagement. Prototyping and user testing were integral parts of the design process, allowing for iterative improvements based on feedback.
