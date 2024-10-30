@@ -6,7 +6,7 @@
 **Mentor :** Neela Santhosh  
 
 
-# GymRat - A Gym Application Design
+# GymRat - A Gym Application Design (Mobile App Wireframing)
 
 ## Overview
 GymRat is a comprehensive gym application designed to enhance the fitness experience for users. This project showcases my UI/UX design skills through a well-structured and visually appealing interface that facilitates easy navigation and engagement with fitness-related features. 
